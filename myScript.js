@@ -1,5 +1,5 @@
 let cnt=-1;
-let txt=["Pi*ka*_*ka*li*ka*li*_*ka*pi*_*ma*ka*ti*nga*.","Ti*rri*ka*_*ka*li*ka*li*_*ji*yi*mi*_*ka*pi*_*ta*ka*.","mu*wa*ni*_*ka*li*ka*li*_*yi*mi*_*ka*pi*_*ti*ngi*wi*ni*.",
+let txt=["ਮ*ਸੀ*ਹ*_*ਯਾ*ਸੂ*_*ਦੇ*_*ਦਾ*ਸਾਂ*","Ti*rri*ka*_*ka*li*ka*li*_*ji*yi*mi*_*ka*pi*_*ta*ka*.","mu*wa*ni*_*ka*li*ka*li*_*yi*mi*_*ka*pi*_*ti*ngi*wi*ni*.",
          "Tin*nga*_*ka*li*ka*li*_*ji*yi*mi*_*ka*pi*_*nga*rra*-*rri*nga*ni*.",
          "Pu*la*ngum*wa*ka*_*pa*pi*_*ji*yi*mi*_*ka*pi*_*ma*ka*ti*nga*.","Nin*ki*yi*,*_*pi*ka*_*ka*li*ka*li*_*ji*yi*mi*_*ka*pi*_*ya*wu*rla*ma*.",
         "Ngi*ya*_*ngi*-*yi*wu*ni*_*yi*wa*pa*_*mu*wa*ni*.", 
