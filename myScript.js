@@ -1,10 +1,10 @@
 let cnt=-1;
-let txt=["ਮ*ਸੀ*ਹ*_*ਯਾ*ਸੂ*_*ਦੇ*_*ਦਾ*ਸਾਂ*","ਪੈ*ਲੂਸ*_*ਅਤੇ*_*ਤਿ*ਮੱ*ਥਿ*ਉਸ","mu*wa*ni*_*ka*li*ka*li*_*yi*mi*_*ka*pi*_*ti*ngi*wi*ni*.",
+let txt=["ਮ*ਸੀ*ਹ*_*ਯਾ*ਸੂ*_*ਦੇ*_*ਦਾ*ਸਾਂ*_*ਪੈ*ਲੂਸ*_*ਅਤੇ*_*ਤਿ*ਮੱ*ਥਿ*ਉਸ","ਅੱਗੇ ਯੋਗ ਫ਼ਿਲਿੱਪੈ ਦੇ ਵਿੱਚ ਜਿੰਨੇ ਮਸੀਹ ਯਿਸੂ ਵਿੱਚ ਸੰਤ ਹਨ ਉਨ੍ਹਾਂ ਸਭਨਾਂ ਨੂੰ ਕਲੀਸਿਯਾ ਦੇ ਨਿਗਾਹਬਾਨਾਂ ਅਤੇ ਸੇਵਕਾਂ ਸਣੇ",
          "Tin*nga*_*ka*li*ka*li*_*ji*yi*mi*_*ka*pi*_*nga*rra*-*rri*nga*ni*.",
          "Pu*la*ngum*wa*ka*_*pa*pi*_*ji*yi*mi*_*ka*pi*_*ma*ka*ti*nga*.","Nin*ki*yi*,*_*pi*ka*_*ka*li*ka*li*_*ji*yi*mi*_*ka*pi*_*ya*wu*rla*ma*.",
         "Ngi*ya*_*ngi*-*yi*wu*ni*_*yi*wa*pa*_*mu*wa*ni*.", 
          "Wu*ta*-*yi*pu*nga*_*wa*ya*_*pi*rri*nga*wi*ni*.","Ta*mi*li*_*yi*mi*_*Pa*li*ki*la*_*ka*nga*ta*wa*_*ki*ta*rri*nga*ni*.*"]
-         let engs=["1 1 παῦλος καὶ τιμόθεος δοῦλοι χριστοῦ ἰησοῦ πᾶσιν τοῖς ἁγίοις ἐν χριστῶ ἰησοῦ τοῖς οὗσιν ἐν φιλίπποις σὺν ἐπισκόποις καὶ διακόνοις· καὶ τιμόθεος δοῦλοι χριστοῦ ἰησοῦ","πᾶσιν τοῖς ἁγίοις ἐν χριστῶ ἰησοῦ τοῖς οὗσιν ἐν φιλίπποις σὺν ἐπισκόποις καὶ διακόνοις·,"green tree snake ran she did to tree/plant.","goanna (kawarri) he ran to the (black) man.","the woman ran she did to his? father.",
+         let engs=["1 ਮਸੀਹ ਯਿਸੂ ਦੇ ਦਾਸ ਪੌਲੁਸ ਅਤੇ ਤਿਮੋਥਿਉਸ,"," ਅੱਗੇ ਯੋਗ ਫ਼ਿਲਿੱਪੈ ਦੇ ਵਿੱਚ ਜਿੰਨੇ ਮਸੀਹ ਯਿਸੂ ਵਿੱਚ ਸੰਤ ਹਨ ਉਨ੍ਹਾਂ ਸਭਨਾਂ ਨੂੰ ਕਲੀਸਿਯਾ ਦੇ ਨਿਗਾਹਬਾਨਾਂ ਅਤੇ ਸੇਵਕਾਂ ਸਣੇ ।","2 ਸਾਡੇ ਪਿਤਾ ਪਰਮੇਸ਼ੁਰ ਅਤੇ ਪ੍ਰਭੂ ਯਿਸੂ ਮਸੀਹ ਦੀ ਵੱਲੋਂ ਤੁਹਾਨੂੰ ਕਿਰਪਾ ਅਤੇ ਸ਼ਾਂਤੀ ਮਿਲਦੀ ਰਹੇ ।","the woman ran she did to his? father.",
           "dog  arrived she did at stream","then horse run she did to bush ",
           "My younger brother ate goanna","their older sister has already gone to sleep.","Tamili called Palikila to his female dog."
          ];
